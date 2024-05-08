@@ -1,4 +1,4 @@
-*[Ship](https://www.ycombinator.com/blog/tips-ship-early-and-often/) [early](https://en.wikipedia.org/wiki/Release_early,_release_often) and [often](https://www.youtube.com/watch?v=a6jeZ7m0ycw)*
+*[Ship](https://www.ycombinator.com/blog/tips-ship-early-and-often/) [early](https://en.wikipedia.org/wiki/Release_early,_release_often) [and](https://www.youtube.com/watch?v=eAo8gnUCWzE) [often](https://www.youtube.com/watch?v=a6jeZ7m0ycw) - Sam Altman*
 
 > I'd choose AI in the eternal recurrence of the same     
 Academia vs. Industry: [sad to say but](https://www.youtube.com/watch?v=GLKoDkbS1Cg) I'd choose the place with more "compute"    
