@@ -1,6 +1,8 @@
+*[Ship](https://www.ycombinator.com/blog/tips-ship-early-and-often/) [early](https://en.wikipedia.org/wiki/Release_early,_release_often) and [often](https://www.youtube.com/watch?v=a6jeZ7m0ycw)*
+
 > I'd choose AI in the eternal recurrence of the same     
 Academia vs. Industry: [sad to say but](https://www.youtube.com/watch?v=GLKoDkbS1Cg) I'd choose the place with more "compute"    
-Those ideas that are in the consensus zone are not novel or good for a startup; that's communal, yet startup is individual
+When in the consensus zone you're not novel or good for a startup; that's communal, yet startup is individual
 
 - Capitalism (Dionysus: you're your own god)
 - [Myth-making](https://www.youtube.com/watch?v=TYAKHLrr51w) (A Guy Vibe!)
